@@ -2,22 +2,17 @@
 UX/UI Design Portfolio showcasing projects from TripleTen program
 # Katherine Wood – UX/UI Design Portfolio
 
-UX/UI Designer • TripleTen Student • Empathy-Driven Problem Solver  
+UX/UI Designer • Human-Centered Design • Empathy-Driven Problem Solver
 
-Welcome to my design portfolio! This repo showcases selected projects from the TripleTen UX/UI program along with case studies that walk through my design process—from research and insights to prototypes and final solutions.
-
+Welcome to my design portfolio. This space highlights selected projects from my UX/UI training at TripleTen, including case studies that walk through my design process — from understanding real user needs to crafting thoughtful, usable solutions.
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Katherine Wood**, a UX/UI designer with a background in healthcare, admin, and customer service.  
+Hi, I’m **Katherine Wood**, a UX/UI designer with a background in healthcare, admin, and customer-facing roles. 
+My design approach is rooted in real-world problem solving, where clarity, empathy, and usability are essential—especially in high-stress or complex environments.
 
-I’m especially passionate about:
-- Designing **supportive, stress-reducing experiences** for busy, overwhelmed people (especially parents and caregivers)
-- Turning messy, real-life problems into **clean, intuitive interfaces**
-- Building products that feel **empathetic, grounded, and genuinely helpful**
-
-I love combining research, structure, and visual storytelling to create experiences that are both **usable and emotionally resonant**.
+I design calm, intuitive experiences that reduce friction and mental load, turning messy problems into thoughtful, human-centered solutions through research, structure, and visual storytelling.
 
 ---
 
@@ -25,90 +20,71 @@ I love combining research, structure, and visual storytelling to create experien
 
 **UX Skills**
 - User interviews & surveys  
-- Problem framing & hypotheses  
+- Problem framing & hypothesis development  
 - User flows & task flows  
 - Information architecture  
-- Low- and mid-fidelity wireframes  
+- Low - and mid-fidelity wireframing  
 - Usability testing & iteration  
 
 **UI Skills**
-- Layout & visual hierarchy  
-- Design systems & components  
-- Responsive web & mobile design  
-- Typography & color systems  
-- Interaction states & microcopy  
+- Layout & visual hierarchy
+- Design systems & components
+- Responsive web & mobile design
+- Typography & color systems
+- Interaction states & microcopy 
 
 **Research & Process**
-- Competitive analysis  
-- Personas & JTBD thinking  
-- Journey maps & service blueprints  
-- Synthesis, insights, and UX documentation  
+- Competitive analysis
+- Personas & Jobs-To-Be-Done (JTBD) thinking
+- Journey maps & service blueprints
+- Synthesis, insights, and UX documentation
 
 ---
 
 ## 🛠 Tools
 
-- **Figma** – Wireframes, UI design, prototypes, design systems  
+- **Figma** – Wireframes, UI design, prototyping, design systems  
 - **FigJam / Miro** – User flows, brainstorming, mapping  
-- **Notion / Google Docs** – Research notes & case studies  
-- **Google Sheets** – Data, prioritization, and tracking  
-- **Trello / Kanban tools** – Task management and workflows  
+- **Notion / Google Docs** – Research notes, documentation, case studies 
+- **Google Sheets** – Data organization, prioritization, and tracking  
+- **Trello / Kanban tools** – Task management and workflow tracking  
 
 ---
 
 ## 📚 TripleTen UX/UI Projects
 
-> Below are the core projects from my TripleTen program. Links will be added as case studies and prototypes are finalized.
+> Selected projects from my TripleTen UX/UI program, including case studies that document my design process from research and problem framing to prototyping and iteration. Links will be added as projects are finalized.
+> 
+### Project 1 – Roam & Revel
+- **Type:** Web / Mobile Travel Blog Website
+- **Focus:** Content discovery & information hierarchy
+- **Status:** ✅ Completed  
+- **Prototype Link:** https://www.figma.com/design/9TFD8KM0zcC8TJj2K4wykd/Katherine-Wood-Project-6?node-id=0-1&t=Jd9kT9cKSxoFlK8s-1  
 
-### Project 1 – [Project Name Here]
-- **Type:** Web / Mobile (replace with actual)
-- **Focus:** (e.g., onboarding flow, marketplace, dashboard)
-- **Status:** 🔄 In progress / ✅ Completed  
-- **Links:**  
-  - Prototype: _coming soon_  
-  - Case Study: _coming soon_  
+### Project 2 – Artéva
+- **Type:** Home decor market place mobile app 
+- **Focus:** Product discovery & browsing flows 
+- **Status:** ✅ Completed  
+- **Prototype Link:** https://www.figma.com/design/BZcB4mFlnx5ufEGdz9Akim/Katherine-Wood-Project-7-High-Fi?node-id=0-1&t=MXxlLJX3Jz0KSDpL-1
 
-### Project 2 – [Project Name Here]
-- **Type:** (e.g., mobile app redesign)  
-- **Focus:** (e.g., accessibility, usability improvements)  
-- **Status:** 🔄 In progress / ✅ Completed  
-- **Links:**  
-  - Prototype: _coming soon_  
-  - Case Study: _coming soon_  
-
-### Project 3 – [Project Name Here]
-- **Type:** Capstone / end-to-end product  
-- **Focus:** (e.g., research → testing → final UI)  
-- **Status:** 🔄 In progress / ✅ Completed  
-- **Links:**  
-  - Prototype: _coming soon_  
-  - Case Study: _coming soon_  
+### Project 3 – Align
+- **Type:** Mobile wellness & activity app for women  
+- **Focus:** Habit-building, engagement design, & cognitive load reduction
+- **Status:** ✅ Completed  
+- **Prototype Link:** https://www.figma.com/design/l0AJlH6WujG3Or1uSjaMp3/Katherine-Wood-Project-8?node-id=1-1547&t=YuVQFsCXAoLZNURj-1 
 
 ---
 
-## 📝 Case Studies
-
-I believe the “why” behind the design is just as important as the final screens.  
-Full case studies will live here (GitHub, Notion, Behance, or a separate portfolio site).
-
-- **[Case Study 1 Title](#)** – short one-line description of the problem and outcome  
-- **[Case Study 2 Title](#)** – short one-line description  
-- **[Case Study 3 Title](#)** – short one-line description  
-
-> _Replace the `#` above with real links once your case studies are published._
-
----
-
-## 📫 Contact Info
+## 💬 Contact Info
 
 I’m currently open to:
 - Junior / entry-level UX/UI roles  
 - Freelance or contract design work  
 - Collaborative projects and mentorship
 
-**Email:** your-email-here@example.com  
-**LinkedIn:** [Your LinkedIn Profile](#)  
-**Location:** United States (open to remote/hybrid)
+**Email:** katherinewood926@outlook.com
+**LinkedIn:** https://www.linkedin.com/in/katherinewood01/
+**Location:** Metro Detroit, United States (open to remote/hybrid)
 
 Thank you for taking the time to explore my work! 🙌  
 If you’d like to chat about a project, role, or collaboration, feel free to reach out.
