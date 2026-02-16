@@ -71,7 +71,7 @@ I design calm, intuitive experiences that reduce friction and mental load, turni
 - **Type:** Mobile wellness & activity app for women  
 - **Focus:** Habit-building, engagement design, & cognitive load reduction
 - **Status:** ✅ Completed  
-- **Prototype Link:** https://www.figma.com/design/l0AJlH6WujG3Or1uSjaMp3/Katherine-Wood-Project-8?node-id=1-1547&t=YuVQFsCXAoLZNURj-1 
+- **Prototype Link:** https://www.figma.com/design/l0AJlH6WujG3Or1uSjaMp3/Katherine-Wood-Project-8?node-id=1-1547&t=jfmwB1S5SnaZt4hp-1 
 
 ---
 
