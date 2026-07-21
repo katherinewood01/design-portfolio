@@ -71,7 +71,7 @@ I design intuitive experiences that reduce friction and mental load, turning mes
 - **Type:** Home decor market place mobile app 
 - **Focus:** Product discovery & browsing flows 
 - **Status:** ✅ Completed  
-- **Prototype Link:** https://www.figma.com/design/BZcB4mFlnx5ufEGdz9Akim/Katherine-Wood-Project-7-High-Fi?node-id=0-1&t=MXxlLJX3Jz0KSDpL-1
+- **Prototype Link:** [https://www.figma.com/design/BZcB4mFlnx5ufEGdz9Akim/Katherine-Wood-Project-7-High-Fi?node-id=0-1&t=MXxlLJX3Jz0KSDpL-1](https://www.figma.com/proto/BZcB4mFlnx5ufEGdz9Akim/Katherine-Wood-Project-7-High-Fi?node-id=104-1140&p=f&viewport=2924%2C667%2C0.64&t=Mq6WcRib7S03AqMi-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=104%3A1140&page-id=0%3A1&show-proto-sidebar=1)
 
 ### Project 3 – Align
 - **Type:** Mobile wellness & activity app for women  
