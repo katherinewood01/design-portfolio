@@ -12,7 +12,7 @@ Welcome to my design portfolio. This space highlights selected projects from my 
 Hi, I’m **Katherine Wood**, a UX/UI designer with a background in healthcare, admin, and customer-facing roles. 
 My design approach is rooted in real-world problem solving, where clarity, empathy, and usability are essential—especially in high-stress or complex environments.
 
-I design calm, intuitive experiences that reduce friction and mental load, turning messy problems into thoughtful, human-centered solutions through research, structure, and visual storytelling.
+I design intuitive experiences that reduce friction and mental load, turning messy problems into thoughtful, human-centered solutions through research, structure, and visual storytelling.
 
 ---
 
@@ -55,6 +55,12 @@ I design calm, intuitive experiences that reduce friction and mental load, turni
 
 > Selected projects from my TripleTen UX/UI program, including case studies that document my design process from research and problem framing to prototyping and iteration. Links will be added as projects are finalized.
 > 
+### TripleTen Capstone Project – SightMark
+- **Type:** Web / Mobile / Social Media Travel Website/App
+- **Focus:** Location discovery & information hierarchy
+- **Status:** more to come!
+- **Prototype Link:** https://www.figma.com/proto/9ieOkcbWYkEfY5drAh6xpy/SightMark?node-id=15-19338&p=f&viewport=640%2C469%2C0.06&t=VG29F9SMYyln2U6U-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=15%3A19338&show-proto-sidebar=1&page-id=0%3A1
+
 ### Project 1 – Roam & Revel
 - **Type:** Web / Mobile Travel Blog Website
 - **Focus:** Content discovery & information hierarchy
@@ -78,6 +84,7 @@ I design calm, intuitive experiences that reduce friction and mental load, turni
 ## 💬 Contact Info
 
 I’m currently open to:
+- Internship - UX/UI, Product/Marketing Design roles
 - Junior / entry-level UX/UI roles  
 - Freelance or contract design work  
 - Collaborative projects and mentorship
